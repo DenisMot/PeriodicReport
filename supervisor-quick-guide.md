@@ -7,6 +7,8 @@
 ---
 
 ## 💬 How to Provide Feedback
+#### **0. Prerequisites**
+- Ensure you have a **GitHub account** and are logged in.
 
 #### **1. Open the Email from GitHub**
 - Locate the **GitHub notification email** in your inbox.
