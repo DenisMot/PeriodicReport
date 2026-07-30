@@ -52,20 +52,21 @@ In this very first step, you want to create a new repository for your project re
 
 ### 2.1. Create the repository on GitHub from the template
 
-- [ ] :green_heart: Create your repository from the template using the web interface of GitHub :green_heart: 
-  - [ ] :green_heart: Click "Use this template" → "Create a new repository"
-  - [ ] :green_heart: Name the repository: `periodic-report-firstname-lastname`
-  - [ ] :green_heart: Include all branches = OFF (only main)
-  - [ ] :green_heart: Description: "Repository for periodic report of the [Title of the project]"
-  - [ ] :green_heart: Set repository to Private 
-   > :red_circle: :warning: Do not make the repository public :warning: , as it contains information about your project that may be confidential. You can always change the visibility later if allowed by your supervisor, but it's safer to start with a private repository.
+- [ ] :green_heart: Go to https://github.com/DenisMot/PeriodicReport 
+- [ ] :green_heart: Sign in with your GitHub account
+- [ ] :green_heart: Click "Use this template" (green button on top of the page) --> "Create a new repository"
+- [ ] :green_heart: Name the repository at your name: `periodic-report-firstname-lastname`
+- [ ] :green_heart: Include all branches = OFF (only main)
+- [ ] :green_heart: Description: "Repository for periodic report of the [Title of the project]"
+- [ ] :green_heart: Set repository to Private 
+  > :red_circle: :warning: Do not make the repository public now :warning: :red_circle:, as it contains information about your project that may be confidential. You can always change the visibility later if allowed by your supervisor, but it's safer to start with a private repository.
 
-  - [ ] Click "Create repository from template"
+- [ ] :green_heart: Click "Create repository from template"
 
 
 ### 2.2. Clone the repository to your local machine
-Once the repository is created and set up correctly, you need to clone it to your local machine using GitHub Desktop. This allows you to work on the report locally and manage changes using Git.
-- [ ] :purple_heart:  Clone the repository to your local machine using GitHub Desktop :purple_heart:  
+Once the repository is created and set up correctly on GitHub, you need to clone it to your local machine using GitHub Desktop :purple_heart:. This allows you to work on the report locally and manage changes using Git.
+- [ ] :purple_heart:  Clone the repository to your local machine using GitHub Desktop 
 
   - :purple_heart: File > Clone repository > select your project report repo
   > :green_circle: Save this repository on your computer in `User/Documents/GitHub/EuroMovDHM/ProjectReport/`.
