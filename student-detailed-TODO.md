@@ -31,8 +31,6 @@ You will alternate between VSCode :blue_heart:, GitHub Desktop :purple_heart: an
    > :orange_circle: It can take up to a few days for GitHub to approve your request, so **do this step early in the process**.
 
 
-
-
 - [ ] On your computer, install GitHub Desktop   :purple_heart: 
   GitHub Desktop provides a user-friendly interface for managing your GitHub repositories, creating commits, and visualizing changes without needing to use the command line. 
 
@@ -40,10 +38,11 @@ You will alternate between VSCode :blue_heart:, GitHub Desktop :purple_heart: an
 - [ ] On your computer, install  VSCode  :blue_heart: 
   VSCode is a powerful code editor that supports markdown editing and has a wide range of extensions that can enhance your workflow. 
 
-  - [ ] Inside  VSCode, install the following extensions :
-    1.  *Markdown Preview Mermaid Support* :warning: this is mandatory to render the Mermaid Gantt chart correctly in the markdown preview.
-    1.  *Markdown Preview Enhanced* :warning: this is mandatory to preview and export markdown to HTML with correct formatting and images.
-   - [ ] Inside  VSCode, activate *GitHub Copilot* by signing in with your GitHub account that has access to Copilot.
+  - Inside  VSCode, set up your tools: 
+    - [ ] install the *Markdown Preview Enhanced* extension 
+    :warning: this is mandatory to preview and export markdown to HTML with correct formatting and images.
+    - [ ] activate *GitHub Copilot* by signing in with your GitHub account that has access to Copilot.
+    :green_circle: Copilot is of great help to provide suggestions and help learn how to use the tools. 
  
 
 ---
