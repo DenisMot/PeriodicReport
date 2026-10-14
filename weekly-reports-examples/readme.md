@@ -21,6 +21,7 @@
 
 
 ## 💡 Additional Tips
+
 - **Set Clear Expectations:** Clearly communicate the objectives and expectations for weekly reports, including the importance of documenting literature reviews, theoretical frameworks, and insights.
 - **Encourage Reflection:** Prompt students to reflect on their learning process, challenges faced, and how they overcame them. This helps develop critical thinking and problem-solving skills.
 - **Show How You Do It:** Share relevant papers, articles, or tools and explain (during a meeting) how you found them and why they are relevant to the student's project. This helps students learn (by observing your approach) how to conduct effective literature reviews and identify valuable resources.
