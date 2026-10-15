@@ -15,12 +15,11 @@
 
 ## 💬 How to Provide Feedback
 
-## Initial Setup (one-time):
-#### Accept the GitHub Invitation
-- You will receive an **email invitation from GitHub** to collaborate on the student's repository.
+### A. Initial Setup (one-time): Accept the GitHub Invitation
+- You received an **email invitation from GitHub** to collaborate on the student's repository.
 - Click the **"View Invitation"** button in the email to accept the invitation.
 
-### Each reporting period:
+### B. Each reporting period: provide feedback on the weekly report
 
 #### 1. Open the Email from your student
 - Locate the email with subject **Weekly Report for Week XX** in your inbox

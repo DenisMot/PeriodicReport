@@ -68,11 +68,11 @@ Once the repository is created and set up correctly on GitHub, you need to clone
 - [ ] :purple_heart:  Clone the repository to your local machine using GitHub Desktop 
 
   - :purple_heart: File > Clone repository > select your project report repo
-  > :green_circle: Save this repository on your computer in `User/Documents/GitHub/EuroMovDHM/ProjectReport/`.
+> :green_circle: Save this repository on your computer in `User/Documents/GitHub/ProjectReport/`.
 
 |  Repository  | Description |
 | -------- | ------- |
-| Local Repository | Your local copy of the repository on your computer, where you *make changes* :blue_heart:  and *create commits* :purple_heart: : `User/Documents/GitHub/EuroMovDHM/ProjectReport/` |
+| Local Repository | Your local copy of the repository on your computer, where you *make changes* :blue_heart:  and *create commits* :purple_heart: : `User/Documents/GitHub/ProjectReport/` |
 | Remote Repository | The copy of the repository hosted on GitHub, where you *push your commits* :purple_heart:  and *create pull requests* :green_heart: for review: `https://github.com/yourusername/ProjectReport/` |
 
 You now have the repository set up and cloned on your local machine ([Illustration of a Git repository](https://media.geeksforgeeks.org/wp-content/uploads/20250710172654460719/What-is-Git-repository.webp)), and you can start working on the report by following the workflow outlined in the next section.
@@ -93,7 +93,7 @@ You need to have a `README.md` file that is dedicated to your project, not the o
 ### 2.4. One-time setup of the first reporting file
 - [ ] :blue_heart: Create a new markdown file for the first reporting period `week-01.md` in the root of the repository. 
   > :green_circle: You should use one of examples you can find in the repository, that you can modify to suit your needs.
-- [ ] :purple_heart: Commit the changes you made to `week-01.md` with a commit message "Create week-01.md"
+- [ ] :purple_heart: Commit the changes you made to `week-01.md` with a commit message `Create week-01.md` and a commit description `Add the first reporting file for week 01.`
 
 
 ### 2.5. Check that the repository is set up correctly
@@ -110,7 +110,6 @@ You need to have a `README.md` file that is dedicated to your project, not the o
 ### 2.6. Add your supervisor as a collaborator
 - [ ] :green_heart: Add your supervisor as a collaborator in the repository 
   - Go to Settings > Collaborators and add your supervisor's GitHub username
-> :orange_circle: **Do not add your supervisor as a collaborator before the repository is ready**. When this is done, any push would send a notification to your supervisor, and you do not want to do that too early, when the repository is not yet ready for review.
 
 ---
 ## 3. Workflow for periodic reports
