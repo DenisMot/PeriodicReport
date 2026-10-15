@@ -22,7 +22,7 @@ You will alternate between VSCode :blue_heart:, GitHub Desktop :purple_heart: an
 
 - [ ] :green_heart: Create a GitHub account on the Internet 
 
-  > :green_circle: If you do not have a GitHub account yet, create one. Ask your favorite LLM for suggestions on **how to choose a username** and use your **university email address** for the primary email (you easily change the primary email later, but changing the username later can be cumbersome).
+  > :green_circle: If you do not have a GitHub account yet, create one. Ask your favorite LLM for suggestions on **how to choose a username** and use your **university email address** for the primary email (you can easily change the primary email later, but changing the username later can be cumbersome).
 
   > :green_circle: If you already have a GitHub account with a personal email, you should add the university email as a secondary email in your GitHub account settings and *set it as the primary email for this repository*. This way, you can keep your personal and professional work separate while still using the same account. :warning: **The common mistake is to create a new GitHub account with the university email**, as *GitHub does not allow multiple accounts with the same email*. 
 
@@ -124,14 +124,23 @@ You need to have a `README.md` file that is dedicated to your project, not the o
 
 - [ ] **Throughout the reporting period** 
   - :blue_heart: Update the content of `week-XX.md` as needed
-  - :purple_heart: Commit changes, but **do not push until the reporting period is complete**.
+  - :purple_heart: Commit changes as you go.
 
 
 - [ ] **Last day** 
 
   - :blue_heart: Make the final updates to the content of `week-XX.md`
   - :purple_heart: Commit the final changes to the `week-XX.md` file
-  - :purple_heart: **Push the commits to the remote repository on GitHub**. This will generate a notification to your supervisor that the report is ready for review.
+  - :purple_heart: **Push the commits to the remote repository on GitHub**. 
+  - :green_heart: Check that your new file looks correct in the GitHub web interface.
+  - :orange_circle: **Manually send an email** to your all supervisors :orange_circle:
+    Please make sure the subject line of your email reads exactly: *Weekly Report for Week XX*, and that the body of the message is concise and professional, including the URL of the repository and the name of the file to be reviewed. 
+      - example:  
+        **Subject:**  Weekly Report for Week 02
+        **Body:**   Dear Dr. Smith and Dr. Jones,    
+        The weekly report for week 02 is ready for your review.   
+        You can find it at [URL of your repository], in the file `week-02.md`.
+        Thank you for your time and feedback.  
 
 
 ---
@@ -145,12 +154,11 @@ The process is as follows:
 1.  :blue_heart: Save the file in VSCode
 1.  :purple_heart: In GitHub Desktop, you will see the changed file under "Changes"
 1.  :purple_heart: Check the box next to `report.md`
-1.  :purple_heart: Write a commit message that summarizes the changes you made to the report during this update (e.g., "Update report with April progress and Gantt chart") :green_circle: Use the Copilot button to generate a commit message based on the changes you made in the report, but **double-check the generated text for accuracy**.
+1.  :purple_heart: Write a commit message that summarizes the changes you made to the report during this update (e.g., "Update report with April progress and Gantt chart")   :green_circle: Use the Copilot button to generate a commit message based on the changes you made in the report, but **double-check the generated text for accuracy**.
 
 1. :purple_heart: Click the Commit button to create the commit in your local repository
-
 :orange_circle: Once you have created some commits (usually a few, at the end of a work session), you need to push them to the remote repository on GitHub so that your supervisor can see the updates and review them. To push the commits:
-1. :purple_heart: Click "Push origin" to push the commit to the remote repository
+1. :purple_heart: Click "Push origin" to push the commits to the remote repository
 
 
 ---
@@ -163,6 +171,6 @@ The Gantt chart is maintained directly in the report file `week-XX.md` as a Merm
 - Use `active` for current tasks
 - Update the Gantt chart as needed throughout the reporting period to reflect progress and changes in the plan.
 
-:warning: Always **check the Gantt chart in the markdown preview** to ensure it renders correctly and reflects the current state of the project.
+:warning: Always **check the Gantt chart on the GitHub interface** :warning:  to ensure it renders correctly for your reviewers.
 
 ---
